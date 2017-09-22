@@ -1,0 +1,16 @@
+creating an executable file
+===========================
+
+$ mate hello or nano hello or pico hello
+
+Type in "pwd" then save
+
+$ chmod 755 hello
+
+$ ./hello
+
+
+References
+==========
+
+http://www.global-webnet.net/blogengine/post/2011/03/04/MAC-OS-10-creating-an-executable-file.aspx
